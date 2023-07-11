@@ -1,0 +1,38 @@
+{
+  "name": "CatchingAllFades",
+  "version": "1.0.0",
+  "description": "Digital Lion Media LLC Creates a barbershop website",
+  "main": "mainScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teddythelion"
+  },
+  "keywords": [
+    "landing",
+    "page",
+    "tailwind",
+    "tailwind",
+    "css",
+    "flowbite",
+    "responsive",
+    "html",
+    "css",
+    "javascript",
+    "design"
+  ],
+  "author": "Themesberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teddythelion"
+  },
+  "homepage": "https://github.com/teddythelion",
+  "devDependencies": {
+    "tailwindcss": "^3.1.4"
+  },
+  "dependencies": {
+    "flowbite": "^1.4.7"
+  }
+}
